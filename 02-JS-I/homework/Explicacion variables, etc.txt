@@ -1,0 +1,17 @@
+
+	* Variables
+		es la forma de crear una palabra que se refiera a algo, es una manera de reservar
+		esta palabra para que en nuestro codigo, x palabra valga algo-
+	* Strings
+		los strings son objetos en forma de palabras, ( con letras, numeros o simbolos )pero en caracter
+		de texto, no de codigo
+	* Funciones (argumentos, `return`)
+		las funciones son para crear métodos de lograr algo, ya sea dentro del codigo, o dentro de algun objeto
+		los argumentos es la informacion que nos proporcionan para dichas funciones
+		y el return es la menra de devolver la informacion lograda con las funciones u otros metodos.
+	* Declaraciones `if`
+		se usan para tener "opciones de codigo" si algo es asi, hagamos esto, si no es asi, hagamos otra cosa"
+	* Valores booleanos (`true`, `false`)
+		verdadero o falso, con estos podemos hacer entender al codigo cuando algo si es asi, o no, no es asi.
+		es el si o no, del lenguaje.
+		
