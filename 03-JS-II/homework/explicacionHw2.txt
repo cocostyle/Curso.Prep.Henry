@@ -1,0 +1,3 @@
+for : el for es un sistema de javascript que se usa para repetir una situacion las veces necesarias para llegar a un cometido
+es decir,  vamos a repetir un proceso varias veces para encontrar algo en algun momento de las repeticiones
+&&, ||, !: se usa para decir "Y" , "O" y  "Negar" respectivamente pero de manera que el interprete lo entienda 
