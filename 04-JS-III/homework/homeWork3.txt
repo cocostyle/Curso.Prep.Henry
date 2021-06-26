@@ -1,0 +1,2 @@
+Arrays : de la palabra arreglo, son datos estructurados, que pueden usarse para guardar mucha informacion.
+pueden contener muchos elementos, como numeros, strings, funciones etc.
