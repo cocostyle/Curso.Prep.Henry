@@ -1,0 +1,9 @@
+Objetos :  los objetos en JS se pueden comparar con los objetos en la vida real, por ejemplo con un "teclado"
+este objeto tiene un cable, teclas, luces y swiches; un objeto en JS se conforma de la misma manera, con sus "partes" para luego 
+usarlo en codigo.
+Propiedades : todas estas partes antes mencionadas son las dichas "Propiedades" cada parte de un objeto es una propiedad.
+Metodos:  son las funciones ya conocidas, pero se las llama metodo cuando estan dentro de un objeto.
+For In: es un bucle que se usa para recorrer objetos, esto elimina proceso de iteracion y lo hace mas simple
+Notaciones de puntos vs Notacion de corchetes : ambas se usan para entrar en distintas propiedades de objetos ( en el caso de objetos )
+pero los puntos a diferencia de los corchetes, no se pueden usar para todo, por ejemplo si es un string lo que llamamos, con punto 
+no se podria pero con [] si, en cambio con los corchetes se puede acceder a cualquier propiedad.

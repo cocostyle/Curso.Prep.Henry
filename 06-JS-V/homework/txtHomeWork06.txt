@@ -1,0 +1,3 @@
+prototype : es como entrar a una propiedad pero al revez, es como ir hacia atras en un objeto.
+_constructors_ : la manera de crear objetos estilo "fabrica" que podamos usar este constructor para crear muchos objetos parecidos, 
+usando las mismas propiedades, sin tener que ser repetitivos ni escribir de mas.

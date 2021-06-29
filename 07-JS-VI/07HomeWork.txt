@@ -1,0 +1,3 @@
+callbacks son funciones, dentro de una funcion; es decir que podemos crear una funcion, que luego usariamos mas adelante para mejorar un 
+
+codigo ya armado.
